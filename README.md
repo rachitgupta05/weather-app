@@ -1,4 +1,4 @@
-# 🌦️ Weather Web Application
+# 🌦️ Weather App
 
 A modern weather application built using React that allows users to search for real-time weather information of any city. The app features a clean UI with a dynamic video background and smooth user experience.
 
